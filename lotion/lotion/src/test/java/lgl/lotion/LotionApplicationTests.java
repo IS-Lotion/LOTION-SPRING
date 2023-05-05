@@ -10,4 +10,7 @@ class LotionApplicationTests {
 	void contextLoads() {
 	}
 
+	public static void main(String[] args) {
+		// SpringApplication.run(LotionApplicationTests.class, args);
+	}
 }
